@@ -15,11 +15,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Mockup Dashboard
 Here is a mockup of the dashboard provided by stakeholders: 
-!
+!()
 
 ## Data Model
 This is the data model used in the Power BI dashboard, showing how different data sources are related to each other: 
-!
+!()
 ## Key Features
 ### Page 1: Executive Overview
 
@@ -40,7 +40,7 @@ This is the data model used in the Power BI dashboard, showing how different dat
 ## Live Dashboard Link
 
 You can view the live version of the dashboard here:
-[Live Dashboard↗](https://app.powerbi.com/view?r=eyJrIjoiYzVjNDAyYjEtZjk3MS00MGFiLWI1YTMtM2JmYTY0NTM0MGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live Dashboard↗]([https://app.powerbi.com/view?r=eyJrIjoiYzVjNDAyYjEtZjk3MS00MGFiLWI1YTMtM2JmYTY0NTM0MGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiOWMwOTEyN2EtN2UxNS00YWQ4LWI0NmYtZDUxMTBiMWVlMTJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 ## Insights from the Dashboard
 
