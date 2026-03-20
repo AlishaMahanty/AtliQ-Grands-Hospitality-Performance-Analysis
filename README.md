@@ -68,4 +68,4 @@ You can view the live version of the dashboard here:
 
 ## Access the PBIX File
 
-You can download the **Power BI file** (.pbix) from the repository [here](./AtliQ_Grands_Hospitality_Performance_Dashboard.pbix).
+You can download the **Power BI file** (.pbix) from the repository [here](https://github.com/AlishaMahanty/AtliQ-Grands-Hospitality-Performance-Analysis/blob/main/AtliQ%20Grands%20Hospitality%20Performance%20Dashboard.pbix).
