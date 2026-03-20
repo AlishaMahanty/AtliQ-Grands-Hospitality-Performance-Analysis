@@ -65,3 +65,7 @@ You can view the live version of the dashboard here:
 - Learned to identify and analyze key business trends to drive decision-making.
 - Enhanced skills in visual storytelling, creating intuitive dashboards that communicate insights clearly.
 - Gained experience in data-driven decision-making, leveraging business intelligence to improve performance outcomes.
+
+## Access the PBIX File
+
+You can download the **Power BI file** (.pbix) from the repository [here](./AtliQ_Grands_Hospitality_Performance_Dashboard.pbix).
