@@ -14,7 +14,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Mockup Dashboard
-Here is a mockup of the dashboard's final design:
-[](https://github.com/AlishaMahanty/AtliQ-Grands-Hospitality-Performance-Analysis/blob/main/Resources/mock%20up%20dashboard_atliq%20grands.png)
+Here is a mockup of the dashboard's final design: [👉](https://github.com/AlishaMahanty/AtliQ-Grands-Hospitality-Performance-Analysis/blob/main/Resources/mock%20up%20dashboard_atliq%20grands.png)
 
-## 
+## Data Model
+This is the data model used in the Power BI dashboard, showing how different data sources are related to each other: [👉](https://github.com/AlishaMahanty/AtliQ-Grands-Hospitality-Performance-Analysis/blob/main/Resources/Data_Model.png)
