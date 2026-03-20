@@ -15,24 +15,24 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Mockup Dashboard
 Here is a mockup of the dashboard provided by stakeholders: 
-![👉](https://github.com/AlishaMahanty/AtliQ-Grands-Hospitality-Performance-Analysis/blob/main/Resources/mock%20up%20dashboard_atliq%20grands.png)
+!
 
 ## Data Model
 This is the data model used in the Power BI dashboard, showing how different data sources are related to each other: 
-![👉](https://github.com/AlishaMahanty/AtliQ-Grands-Hospitality-Performance-Analysis/blob/main/Resources/Data_Model.png)
-
+!
 ## Key Features
 ### Page 1: Executive Overview
 
 - Revenue & Occupancy Trend: A line chart showing revenue and occupancy changes over time, allowing executives to quickly spot trends.
 - Revenue by Category: A donut chart displaying the revenue breakdown between Luxury and Business room categories.
-- Bookings by Platform: A bar chart representing the share of bookings from different platforms like Direct Online and Tripster.
-- Occupancy by Day Type: A bar chart showing occupancy rates for weekdays vs weekends.
+- Revenue by City: A Column chart displaying revenue contribution from different cities.
+- Bookings % by Platform: A bar chart representing the share of bookings from different platforms.
+- Day Type by Key Metrics: Table showing key metrics (Revenue, RevPAR, ADR, and Occupancy %) for Weekdays vs Weekends.
 
 ### Page 2: Operational Insights
 
-- Property Performance Overview: A property-level performance table showing detailed metrics such as Revenue, Occupancy, ADR, Cancellation %, and Rating.
-- Occupancy by Room Class: A clustered column chart showing room class performance across Standard, Elite, Premium, and Presidential room categories.
+- Property Performance Overview: A property-level performance table drill up by city, displaying key metrics such as Revenue, Total Bookings, RevPAR, Occupancy, ADR, DSRN, DBRN, DURN, Realisation %, Cancellation % and Average Rating.
+- Occupancy by Room Class: A clustered column chart showing occupancy rates by room class across Standard, Elite, Premium, and Presidential room categories.
 - Cancellation % by Platform: A bar chart to analyze which platforms contribute the highest to cancellations.
 - Booking Status Distribution: A donut chart showing the breakdown of booking statuses such as Checked Out, Cancelled, and No Show.
 - Avg Rating by City: A bar chart comparing customer satisfaction ratings across cities where AtliQ Grands operates.
