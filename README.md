@@ -52,6 +52,7 @@ You can view the live version of the dashboard here:
 - Presidential rooms have the highest occupancy percentage (59.2%), while Standard, Elite, and Premium rooms perform similarly at around 57% occupancy.
 - The majority of bookings (70.1%) are successfully checked out, but 24.8% cancellations highlight a significant revenue loss that needs attention.
 - Tripster, Direct Online, and MakeYourTrip show the highest cancellation rates (around 25%), highlighting a key area for operational improvement in these platforms.
+- Delhi leads with a rating of 3.78, followed by Hyderabad (3.66), Mumbai (3.65), and Bangalore (3.41), indicating areas for improvement in customer satisfaction in certain locations.
 
 ## Key Learnings
 
